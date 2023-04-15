@@ -1,0 +1,12 @@
+spring:
+  cloud:
+    config:
+      server:
+          git:
+            privateKey: |-
+              -----BEGIN EC PRIVATE KEY-----
+              MHcCAQEEIMuVh4efFydIJDZSLF4ItvH3Ssunz1IPXf2gTefpwVyRoAoGCCqGSM49
+              AwEHoUQDQgAEbielF+7TyXiIWm+n/YNdsgh9isaOEYfEpYcgvTIi7BVnyeWO1hPm
+              GLCTqk8mLEMZRRg2XmBSeO4kLLw+HN1Zdw==
+              -----END EC PRIVATE KEY-----
+
